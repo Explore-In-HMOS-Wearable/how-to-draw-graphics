@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Circle",
+    "pages/Ellipse",
+    "pages/Line",
+    "pages/Path",
+    "pages/Polygon",
+    "pages/Polyline",
+    "pages/Rect",
+    "pages/Shape"
+  ]
+}
